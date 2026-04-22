@@ -35,9 +35,7 @@ npm run dev
 
 ---
 
-## ⚠️ Credits
 
-This portfolio is built on top of a template by [Moncy Yohannan](https://github.com/MoncyDev). Original design and 3D character assets are credited to the original author.
 
 ---
 
