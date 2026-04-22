@@ -6,9 +6,11 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          IT undergraduate and AI developer experienced in building scalable
+          machine learning models and end-to-end AI pipelines. Proficient in
+          deep learning (TensorFlow, Keras), computer vision, and Large Language
+          Models (LLMs) to solve real-world technical challenges and automate
+          complex data workflows.
         </p>
       </div>
     </div>

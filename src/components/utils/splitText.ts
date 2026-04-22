@@ -1,7 +1,7 @@
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import { ScrollSmoother } from "gsap-trial/ScrollSmoother";
-import { SplitText } from "gsap-trial/SplitText";
+import { ScrollSmoother } from "../../shims/ScrollSmoother";
+import { SplitText } from "../../shims/SplitText";
 
 interface ParaElement extends HTMLElement {
   anim?: gsap.core.Animation;

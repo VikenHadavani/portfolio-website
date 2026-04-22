@@ -15,43 +15,44 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Cloud Intern</h4>
+                <h5>AWS Internship / Bootcamp</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Designed scalable cloud infrastructure using AWS (EC2, S3,
+              DynamoDB, Lambda, CloudFront). Engineered serverless applications
+              with API Gateway and prototyped generative AI solutions using AWS
+              Bedrock.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>B.Tech in Information Technology</h4>
+                <h5>Charotar University of Science and Technology</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2023–2026</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Pursuing a Bachelor of Technology in Information Technology with a
+              focus on artificial intelligence, machine learning, and cloud
+              computing.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Diploma in Computer Engineering</h4>
+                <h5>Noble University</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2020–2023</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Completed a Diploma in Computer Engineering, building a solid
+              foundation in programming, data structures, and software
+              development.
             </p>
           </div>
         </div>
